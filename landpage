@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Como Financiar Seu Imóvel</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#0b1d2a;
+    color:#ffffff;
+}
+
+.container{
+    max-width:700px;
+    margin:auto;
+    padding:20px;
+    text-align:center;
+}
+
+h1{
+    font-size:32px;
+    color:#ffd700;
+    line-height:1.2;
+}
+
+h2{
+    margin-top:0;
+    color:#ffd700;
+}
+
+p{
+    font-size:16px;
+    line-height:1.6;
+}
+
+.box{
+    background:#132f44;
+    padding:25px;
+    margin:20px 0;
+    border-radius:12px;
+}
+
+.badge{
+    display:inline-block;
+    background:#ff3b3b;
+    padding:8px 16px;
+    border-radius:20px;
+    font-size:12px;
+    font-weight:bold;
+    margin-bottom:20px;
+}
+
+.price{
+    font-size:36px;
+    color:#00ff9d;
+    font-weight:bold;
+    margin:15px 0;
+}
+
+.cta{
+    margin:30px 0;
+}
+
+ul{
+    text-align:left;
+    max-width:500px;
+    margin:auto;
+    padding-left:20px;
+}
+
+li{
+    margin-bottom:10px;
+}
+
+.footer{
+    margin-top:30px;
+    font-size:14px;
+    opacity:0.8;
+}
+</style>
+
+<!-- HOTMART -->
+<script type="text/javascript">
+function importHotmart(){ 
+    var imported = document.createElement('script'); 
+    imported.src = 'https://static.hotmart.com/checkout/widget.min.js'; 
+    document.head.appendChild(imported); 
+
+    var link = document.createElement('link'); 
+    link.rel = 'stylesheet'; 
+    link.type = 'text/css'; 
+    link.href = 'https://static.hotmart.com/css/hotmart-fb.min.css'; 
+    document.head.appendChild(link);
+} 
+
+importHotmart();
+</script>
+
+</head>
+<body>
+
+<div class="container">
+
+<div class="badge">
+🔥 ACESSO IMEDIATO
+</div>
+
+<h1>
+Como Financiar Seu Imóvel Mesmo Começando do Zero
+</h1>
+
+<p>
+Aprenda o passo a passo para sair do aluguel e conquistar seu imóvel mesmo com renda limitada.
+</p>
+
+<div class="cta">
+<a onclick="return false;" 
+href="https://pay.hotmart.com/F105546971C?checkoutMode=2" 
+class="hotmart-fb hotmart__button-checkout">
+<img src="https://static.hotmart.com/img/btn-buy-green.png">
+</a>
+</div>
+
+<div class="box">
+<h2>Você vai aprender:</h2>
+
+<ul>
+<li>✔ Como funciona o financiamento imobiliário</li>
+<li>✔ Como aumentar chances de aprovação</li>
+<li>✔ Como usar FGTS corretamente</li>
+<li>✔ Diferença entre SAC e PRICE</li>
+<li>✔ Como escolher o melhor banco</li>
+<li>✔ Passo a passo até a assinatura</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>Ideal para quem:</h2>
+
+<ul>
+<li>✔ Quer comprar o primeiro imóvel</li>
+<li>✔ Está cansado de pagar aluguel</li>
+<li>✔ Tem medo de ser recusado pelo banco</li>
+<li>✔ Não entende financiamento</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>Oferta Especial</h2>
+
+<p>De R$97 por apenas:</p>
+
+<div class="price">
+R$19,90
+</div>
+
+<p>
+Pagamento único • Acesso imediato
+</p>
+</div>
+
+<div class="cta">
+<a onclick="return false;" 
+href="https://pay.hotmart.com/F105546971C?checkoutMode=2" 
+class="hotmart-fb hotmart__button-checkout">
+<img src="https://static.hotmart.com/img/btn-buy-green.png">
+</a>
+</div>
+
+<div class="footer">
+🔒 Compra segura • Garantia de 7 dias
+</div>
+
+</div>
+
+</body>
+</html>
